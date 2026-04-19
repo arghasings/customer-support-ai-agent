@@ -6,3 +6,4 @@ sentence-transformers
 torch
 pandas
 python-dotenv
+faiss-cpu
