@@ -1,8 +1,8 @@
 streamlit
-python-dotenv
-langchain-core
+langchain
 langchain-community
 langchain-openai
+sentence-transformers
+torch
 pandas
-numpy
-scikit-learn
+python-dotenv
